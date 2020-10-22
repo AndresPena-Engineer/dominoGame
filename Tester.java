@@ -2,6 +2,9 @@ package dominointerface;
 
 import java.util.*;
 
+// This is the tester class that makes sure that all the players have input the correct position and
+// its making sure that all the shuffles are completed. This tester class was provided by the instructer of the course.
+
 public class Tester {
 
     public static void main(String[] args) {
